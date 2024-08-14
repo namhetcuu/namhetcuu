@@ -2,13 +2,16 @@
 
 ###
 
-<p align="left">My name is nam and I'm a Fullstack Dev</p>
+<p align="left">
+  I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code.
+</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Java Spring Boot<br>🎯 Certificate: Toeic <br>🎲 Fun fact: ...</p>
 
