@@ -49,4 +49,4 @@
 
 ###
 
-<img align="center" width="1440" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pzNmZ1a3Y0YmFiNjExd2gxemxzbmJ2OHg3ZTFiNnd3MTllcmNsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cqvMx0yH3eko/giphy.webp"  />
+<img align="center" width="1440" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRoZXV6anV5Nmx2cGw0N3d3Ymd3ZGVybzhoMnBjdmhlODQ2NXFqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K0yXL4cDnFrq0/giphy.webp"  />
