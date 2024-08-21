@@ -1,3 +1,8 @@
+
+<img align="center" width="1440" src="https://64.media.tumblr.com/63e1cc6b01473569225516f6d0819c86/f97d3c60ef5a1d28-43/s1280x1920/cb18505f1cff092155000aca8059673f38cbdd22.gif"  />
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -10,8 +15,7 @@
 
 <h2 align="left">About me</h2>
 
-###
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Java Spring Boot<br>🎯 Certificate: Toeic <br>🎲 Fun fact: ...</p>
 
@@ -44,3 +48,5 @@
 </div>
 
 ###
+
+<img align="center" width="1440" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pzNmZ1a3Y0YmFiNjExd2gxemxzbmJ2OHg3ZTFiNnd3MTllcmNsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cqvMx0yH3eko/giphy.webp"  />
