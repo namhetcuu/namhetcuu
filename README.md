@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [School Management](https://github.com/namhetcuu/School-Management)
+- 🔭 I’m currently working on [Social Media Roway](https://github.com/namhetcuu/School-Management)
 
 - 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on [Identity Service](https://github.com/namhetcuu/identity_service)
 
-- 🤝 I’m looking for help with **Coffee Management System**
+- 🤝 I’m looking for help with **Social Media**
 
 - 👨‍💻 All of my projects are available at [https://github.com/namhetcuu?tab=repositories](https://github.com/namhetcuu?tab=repositories)
 
