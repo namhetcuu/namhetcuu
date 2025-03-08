@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Social Media Roway](https://github.com/namhetcuu/School-Management)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot, Deep Learning**
 
 - 👯 I’m looking to collaborate on [Identity Service](https://github.com/namhetcuu/identity_service)
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/namhetcuu?tab=repositories](https://github.com/namhetcuu?tab=repositories)
 
-- 💬 Ask me about **Java, Javascript, etc...**
+- 💬 Ask me about **Java, Javascript, Python, etc...**
 
 - 📫 How to reach me **namne272004@gmail.com**
 
