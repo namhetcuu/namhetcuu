@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **namne272004@gmail.com**
 
-- ⚡ Fun fact **...**
+- ⚡ Fun fact **Toeic 750, JLPT...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
